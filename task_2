@@ -1,0 +1,2 @@
+
+revert is the command we use when we want to take a previous commit and add it as a new commit, keeping the log intact.
